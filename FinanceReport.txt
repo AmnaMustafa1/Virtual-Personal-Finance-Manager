@@ -1,0 +1,5 @@
+--- Financial Report ---
+Name: Amiey
+Total Income: $234.00
+Total Expenses: $0.00
+Savings: $234.00
